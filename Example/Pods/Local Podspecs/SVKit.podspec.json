@@ -1,0 +1,22 @@
+{
+  "name": "SVKit",
+  "version": "0.1.0",
+  "summary": "A base library for iOS",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/clac_0007@163.com/SVKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "clac_0007@163.com": "xiangwei.zhang@99bill.com"
+  },
+  "source": {
+    "git": "https://github.com/clac_0007@163.com/SVKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SVKit/Classes/**/*"
+}

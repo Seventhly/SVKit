@@ -1,0 +1,6 @@
+framework module SVKit {
+  umbrella header "SVKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
